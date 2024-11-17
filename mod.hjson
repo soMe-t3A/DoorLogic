@@ -1,0 +1,27 @@
+name: door-logic
+displayName: "Door Logic  |  Texture Pack"
+subtitle: "New experience in logical circuits"
+
+author: soMe–t3A
+description:
+'''
+
+This is a very small mod that simply replaces some existing content in the game.
+
+--- -- -- - - -
+
+This mod includes:
+-- Door: custom sprites, sound.
+-- Logic: custom sprites.
+
+--- -- -- - - -
+
+It was created, at least, to slightly refresh the experience of constructing logic circuits from logic elements, in which a binary signal is transmitted through doors.
+
+'''
+
+version: v1.0.0
+minGameVersion: 146
+
+dependencies: [ ]
+hidden: true
